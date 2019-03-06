@@ -8,11 +8,11 @@ exclude:
 
 # Site settings
 title: Deliberately Jones
-subtitle: "A simple yet classy theme for your Jekyll website or blog"
-email: blcentra@gmail.com
-name: Ben Centra
+subtitle: "Living the life you love and turning your back on the status quo."
+email: k424jones@gmail.com
+name: Kate Jones
 description: > 
-  A simple yet classy theme for your Jekyll website or blog.
+  Start living the life you love by choosing to live deliberately.
 baseurl: "/blog/" # the subpath of your site, e.g. /blog/
 url: "http://deliberatelyjones.github.io" # the base hostname & protocol for your site
 cover: "assets/header_image.jpg"
@@ -34,7 +34,7 @@ paginate_path: "/page:num/"
 #     tag: '/tag/:name/'
 
 # Disqus comments
-disqus_shortname: bencentra
+disqus_shortname: katejones
 
 # Google analytics
 # ga_tracking_id: "UA-XXXX-1"
